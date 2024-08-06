@@ -1,0 +1,26 @@
+{8 items
+key:
+4
+updateAuthority:
+"9GFgGwMguGhXFqQ7eXa6GHXenptwrVGJZtU2BZsvibBo"
+mint:
+"41xCPsEgTEZqXRcH8ZTxDwYZT8nqvdVBzfpsXkpVJqyp"
+data:{4 items
+name:
+"Test123"
+symbol:
+"T123"
+uri:
+"https://cf-ipfs.com/ipfs/QmcfByXxkZZXMX6NyfmxvxQMpd1rsPCx8mXkPKe6Ywgpqy"
+sellerFeeBasisPoints:
+0
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+252
+tokenStandard:
+2
+}
